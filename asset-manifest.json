@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/password-validator/static/js/main.e883d065.js",
+    "index.html": "/password-validator/index.html",
+    "main.e883d065.js.map": "/password-validator/static/js/main.e883d065.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e883d065.js"
+  ]
+}
